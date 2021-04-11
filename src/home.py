@@ -14,6 +14,6 @@ def write():
 
  4. [Anush Krishna](https://www.linkedin.com/in/anush-krishna-v-8270941a0/) - An undergrad from India and a Microsoft Student Ambassador for the Asia region. Anush is also a member of QPower Community and the winner of Qiskit challange at MacHacks 2021.
 
- 5. [Mohamed Yassine](https://www.linkedin.com/in/med-yassine-ferjani/) - A senior undergrad from Tunisia and co-founder of QTunisia. Mohamed is also a member of QPower community.
+ 5. [Mohamed Yassine Ferjani](https://www.linkedin.com/in/med-yassine-ferjani/) - A senior undergrad from Tunisia and co-founder of QTunisia quantum community, he is conducting wokshops and webinars on quantum computing. Mohamed is the winner of the Qiskit Global Hackathon. He is currently working on his senior thesis on quantum algorithms.
 
 ''')
